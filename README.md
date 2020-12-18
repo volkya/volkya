@@ -10,7 +10,6 @@
 - 🌱 &nbsp; I’m currently learning VueJS and Swagger
 - 💬 &nbsp; Ask me about Web Development on Java/Javascript and PHP
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
 - 💼 &nbsp; Working as a Web Development at Experis Argentina.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Photography and Blog Writing as hobbies/side hustles.
