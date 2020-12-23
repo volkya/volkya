@@ -1,4 +1,4 @@
-![wallhaven-443187](https://user-images.githubusercontent.com/36033490/103022590-1600e600-452b-11eb-917b-01896c205997.jpg)
+![covergithub](https://user-images.githubusercontent.com/36033490/103022956-c1119f80-452b-11eb-8c2c-7185ba5a4c47.png)
 <h2> Hey there! I'm Volkya 👋.</h2>
 
 [![Yandex Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:bozhya-volya.dylan@yandex.com)
