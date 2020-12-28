@@ -23,7 +23,8 @@
 - **Task runners:** Webpack
 - **Transpiladores Javascript:** Typescript, Babel
 - **Transpiladores CSS:** SASS
-- **Preprocesadores HTML:** HAML
+- **Transpiladores HTML:** HAML
+- **Pattern design:** MVC, Flux, Redux
 
 <h3> 🛠 &nbsp;Tech Stack Backend</h3>
 
