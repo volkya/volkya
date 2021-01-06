@@ -19,7 +19,7 @@
 
 - **Frameworks CSS:** Bootstrap, Materialize
 - **Frameworks JS/TS:** Angular 6 & 8, Vue 2 & 3, React...
-- **Template Engines:** Thymeleaf, EJS, Handlebars, Jinga2
+- **Template Engines:** Thymeleaf, EJS, Handlebars, Jinga2, Blade
 - **Task runners:** Webpack
 - **Transpiladores Javascript:** Typescript, Babel
 - **Transpiladores CSS:** SASS
