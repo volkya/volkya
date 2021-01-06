@@ -24,7 +24,9 @@
 - **Transpiladores Javascript:** Typescript, Babel
 - **Transpiladores CSS:** SASS
 - **Transpiladores HTML:** HAML
-- **Pattern design:** MVC, Flux, Redux
+- **Pattern Architecture:** MVC, Flux, Redux
+- **Pattern design:** Singleton
+
 
 <h3> 🛠 &nbsp;Tech Stack Backend</h3>
 
