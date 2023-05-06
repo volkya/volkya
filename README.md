@@ -43,6 +43,7 @@
 - **SQL:** MySQL, PostgreSQL, H2, SQL Server
 - **NOSQL:** MongoDB
 
-<h3> 🛠 &nbsp;Cloud</h3>
+<h3> 🛠 &nbsp;Cloud providers</h3>
+AWS, Cloudflare, GitHub Pages, Vercel
 
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/volkya)
