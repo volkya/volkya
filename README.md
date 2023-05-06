@@ -8,10 +8,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🌱 &nbsp; I’m currently learning VueJS and Swagger
-- 💬 &nbsp; Ask me about Web Development on Java/Javascript and PHP
+- 🌱 &nbsp; I’m currently learning `Python` and `Cryptography`
+- 💬 &nbsp; Ask me about Web Development on `Java/Javascript` and PHP
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a Web Development at Experis Argentina.
+- 💼 &nbsp; Working as a Web Development at Lakaut Argentina.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Photography and Blog Writing as hobbies/side hustles.
 
