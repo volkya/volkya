@@ -47,3 +47,5 @@
 AWS, Cloudflare, GitHub Pages, Vercel
 
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/volkya)
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6463a192410780a6d9b60355?variant=dark&roadmaps=cyber-security%2Cfull-stack%2Cdevops%2Cblockchain)](https://roadmap.sh)
