@@ -9,11 +9,13 @@
 
 ## 🙋‍♂️ About me
 - Hiking and cycling to relax my mind. Good food, tea and spa to relax my body.
-- I'm a part of the [Open Source Community](https://github.com/dyma)
+- I'm a part of the [Open Source Community](https://github.com/volkya)
 - I write to my blog and post to my instagram.
 - I teach how to find a job, how to work less but more efficient and how to make your work valuable.
-
-
+- I'm self-taught person with a great deal of hobbies and interests, beside technology. I love books and photography.
+- I trying to launch my business
+- I've been into software development for more than 9 years, DevOps and Team Leader 
+- I'm enthusiast into world of Blockchain
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-555?style=flat&logo=go)&nbsp;
@@ -35,7 +37,9 @@
 
 
 ## Links
-- mail: matiasdylanc@gmail.com
-- Instagram: https://www.instagram.com/dyma/
-- LinkedIn: https://www.linkedin.com/in/dyma/
-- GitHub: https://github.com/dyma
+- ✉️ matiasdylanc@gmail.com
+- 📷 [Instagram](https://www.instagram.com/dyma/)
+- [LinkedIn](https://www.linkedin.com/in/dyma/)
+- [Gists](https://gist.github.com/volkya)
+- ✍🏻 [Blog](www.google.com)
+- ✈️ [Nomad List](www.google.com)
