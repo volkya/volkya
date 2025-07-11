@@ -1,5 +1,6 @@
 
 *[En espaniol](README-ES.md)*\
+*[Auf Deutsch](README-DE.md)*\
 *[На русском](README-RU.md)*
 
 # Hi there, I'm Dylan Matias Correa 👋
