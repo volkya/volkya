@@ -6,9 +6,9 @@
 # Hi there, I'm Dylan Matias Correa 👋
 
 [![](./src/header_.png)](#)
-> <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.</b>\
+> <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life.</b>
 
-## 🙋‍♂️ About me
+### 🙋‍♂️ About me
 - Hiking and cycling to relax my mind. Good food, tea and spa to relax my body.
 - I'm a part of the [Open Source Community](https://github.com/volkya)
 - I write to my blog and post to my instagram.
@@ -17,7 +17,27 @@
 - I trying to launch my business
 - I've been into software development for more than 9 years, DevOps and Team Leader 
 - I'm enthusiast into world of Blockchain
-## 🛠️ Tech Stack
+
+### Main technologies 
+
+- Java
+- Python
+- Javascript
+- Kotlin
+
+> <b>Some technologies which.</b>
+
+### Application Development
+
+### Infrastructure & Cloud
+
+### Database & Storage
+
+### Web Technologies
+
+
+### 🛠️ Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-555?style=flat&logo=go)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
@@ -34,9 +54,15 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-555?style=flat&logo=jupyter)&nbsp;
 
-## 🚀 My Projects
+## Work
 
+<!--### Open Source-->
 
+### Contact
+
+Reach me on [Telegram](https://t.me/volkeatworld), on [LinkedIn](https://www.linkedin.com/in/volkya/) or at hello (at) matiasdylanc@gmail.com
+
+<!--
 ## Links
 - ✉️ matiasdylanc@gmail.com
 - 📷 [Instagram](https://www.instagram.com/dyma/)
@@ -44,3 +70,4 @@
 - [Gists](https://gist.github.com/volkya)
 - ✍🏻 [Blog](www.google.com)
 - ✈️ [Nomad List](www.google.com)
+-->
