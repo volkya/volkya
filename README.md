@@ -25,18 +25,33 @@
 - Javascript
 - Kotlin
 
-> <b>Some technologies which.</b>
+> <b>Some technologies I've worked with</b>
 
-### Application Development
+## Application Development
+Desktop: Windows Forms, WPF, Electron
+Web: ASP.NET Core, Blazor, Spring Boot
+Mobile: Xamarin, .NET MAUI, Native Android, Native iOS (Swift)
+Cross-Platform: .NET Core, Java
 
-### Infrastructure & Cloud
+#### Infrastructure & Cloud
+DevOps: Docker, CI/CD pipelines
+Cloud Platforms: AWS, Azure
+Infrastructure as Code: YAML, Terraform
+Networking: TCP/IP, HTTP/HTTPS, WebSockets
+Source Control: Git (GitHub, GitLab), Team Foundation Server, Visual Source Safe
 
 ### Database & Storage
+Relational: MSSQL, MySQL
+NoSQL: MongoDB, DynamoDB, Firebase
 
 ### Web Technologies
+- HTML 5
+- CSS3
+- JavaScript
+- Bootstrap
+- Jquery
+- 
 
-
-### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-555?style=flat&logo=go)&nbsp;
@@ -58,7 +73,7 @@
 
 <!--### Open Source-->
 
-### Contact
+## Contact
 
 Reach me on [Telegram](https://t.me/volkeatworld), on [LinkedIn](https://www.linkedin.com/in/volkya/) or at hello (at) matiasdylanc@gmail.com
 
