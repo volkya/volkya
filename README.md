@@ -9,20 +9,19 @@
 > <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life.</b>
 
 ### 🙋‍♂️ About me
-- Hiking and cycling to relax my mind. Good food, tea and spa to relax my body.
-- I'm a part of the [Open Source Community](https://github.com/volkya)
+- Hiking and cycling to relax my mind. Good food and mate!.
 - I write to my blog and post to my instagram.
 - I teach how to find a job, how to work less but more efficient and how to make your work valuable.
 - I'm self-taught person with a great deal of hobbies and interests, beside technology. I love books and photography.
-- I trying to launch my business
+- In my free time practice DJ sets!
 - I've been into software development for more than 9 years, DevOps and Team Leader 
 - I'm enthusiast into world of Blockchain
 
 ### Main technologies 
 
 - Java
-- Python
 - Javascript
+- Python
 - Kotlin
 
 > <b>Some technologies I've worked with</b>
