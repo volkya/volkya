@@ -3,19 +3,18 @@
 *[Auf Deutsch](README-DE.md)*\
 *[На русском](README-RU.md)*
 
-# Hi there, I'm Dylan Matias Correa 👋
+# Aha, I'm Dyma Correa 👋
 
 [![](./src/header_.png)](#)
 > <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life.</b>
 
-### 🙋‍♂️ About me
-- Hiking and cycling to relax my mind. Good food and mate!.
-- I write to my blog and post to my instagram.
-- I teach how to find a job, how to work less but more efficient and how to make your work valuable.
-- I'm self-taught person with a great deal of hobbies and interests, beside technology. I love books and photography.
-- In my free time practice DJ sets!
-- I've been into software development for more than 9 years, DevOps and Team Leader 
-- I'm enthusiast into world of Blockchain
+
+
+### Writing
+### Work
+### Open Source
+### Contact
+
 
 ### Main technologies 
 
