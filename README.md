@@ -48,11 +48,14 @@ NoSQL: MongoDB, DynamoDB, Firebase
 
 <!--## Writing-->
 
-<!--## Work --> 
+<!--## 💼 Work --> 
 
-<!--## Open Source-->
+<!--## 💼 Open Source-->
 
-## Recommended Readings
+<!--## 🎥 Content Creation & Media -->
+
+
+## 📚 Recommended Readings
 Books that shaped my engineering philosophy
 
 ### Core Engineering & Architecture
@@ -86,7 +89,7 @@ Books that shaped my engineering philosophy
 **How to F*ck Up a Startup** - Very funny and insightful startups for those who learn from mistakes (i.e., everyone).
 
 
-## Contact
+## 📫 Contact
 
 Reach me on [Telegram](https://t.me/volkeatworld), on [LinkedIn](https://www.linkedin.com/in/volkya/) or at hello (at) matiasdylanc@gmail.com
 
