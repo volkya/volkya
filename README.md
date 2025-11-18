@@ -8,15 +8,7 @@
 [![](./src/header_.png)](#)
 > <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life.</b>
 
-
-
-### Writing
-### Work
-### Open Source
-### Contact
-
-
-### Main technologies 
+## Main technologies 
 
 - Java
 - Javascript
@@ -25,7 +17,7 @@
 
 > <b>Some technologies I've worked with</b>
 
-## Application Development
+#### Application Development
 Desktop: Windows Forms, WPF, Electron
 Web: ASP.NET Core, Blazor, Spring Boot
 Mobile: Xamarin, .NET MAUI, Native Android, Native iOS (Swift)
@@ -38,19 +30,16 @@ Infrastructure as Code: YAML, Terraform
 Networking: TCP/IP, HTTP/HTTPS, WebSockets
 Source Control: Git (GitHub, GitLab), Team Foundation Server, Visual Source Safe
 
-### Database & Storage
+#### Database & Storage
 Relational: MSSQL, MySQL
 NoSQL: MongoDB, DynamoDB, Firebase
 
-### Web Technologies
+#### Web Technologies
 - HTML 5
 - CSS3
 - JavaScript
 - Bootstrap
 - Jquery
-- 
-
-
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-555?style=flat&logo=go)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
@@ -67,9 +56,12 @@ NoSQL: MongoDB, DynamoDB, Firebase
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-555?style=flat&logo=jupyter)&nbsp;
 
+
+<!--## Writing-->
+
 ## Work
 
-<!--### Open Source-->
+<!--## Open Source-->
 
 ## Recommended Readings
 Books that shaped my engineering philosophy
