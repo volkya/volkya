@@ -71,6 +71,40 @@ NoSQL: MongoDB, DynamoDB, Firebase
 
 <!--### Open Source-->
 
+## Recommended Readings
+Books that shaped my engineering philosophy
+
+### Core Engineering & Architecture
+- **The Pragmatic Programmer** - Hunt & Thomas
+  > "Every piece of knowledge must have a single, unambiguous representation"
+- **Clean Code** - Robert C. Martin
+  > "Code is read far more often than it is written"
+- **Designing Data-Intensive Applications** - Martin Kleppmann
+  > "Understanding trade-offs between consistency, availability, and partition tolerance" 
+
+### Architecture and Design
+- Building Microservices - Sam Newman
+- Domain-Driven Design - Eric Evans
+- Monolith to Microservices - Sam Newman
+- Patterns of Enterprise Application Architecture - Martin Fowler
+- The Mythical Man Month - Written in 1975, still painfully relevant.
+
+
+### Computer Science & Mathematics
+- **Algorithms Illuminated** - Tim Roughgarden
+- **Operating Systems: Three Easy Pieces** - Remzi
+
+### Tools & Infrastructure
+- 
+
+### Security
+- **The Web Application Hacker's Handbook** - Stuttard & Pinto
+
+
+### Industry Insights & Essential Papers
+**How to F*ck Up a Startup** - Very funny and insightful startups for those who learn from mistakes (i.e., everyone).
+
+
 ## Contact
 
 Reach me on [Telegram](https://t.me/volkeatworld), on [LinkedIn](https://www.linkedin.com/in/volkya/) or at hello (at) matiasdylanc@gmail.com
