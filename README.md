@@ -67,16 +67,16 @@ Books that shaped my engineering philosophy
   > "Understanding trade-offs between consistency, availability, and partition tolerance" 
 
 ### Architecture and Design
-- Building Microservices - Sam Newman
-- Domain-Driven Design - Eric Evans
-- Monolith to Microservices - Sam Newman
-- Patterns of Enterprise Application Architecture - Martin Fowler
-- The Mythical Man Month - Written in 1975, still painfully relevant.
+- Building Microservices - *Sam Newman*
+- Domain-Driven Design - *Eric Evans*
+- Monolith to Microservices - *Sam Newman*
+- Patterns of Enterprise Application Architecture - *Martin Fowler*
+- The Mythical Man Month - *Written in 1975, still painfully relevant.*
 
 
 ### Computer Science & Mathematics
-- **Algorithms Illuminated** - Tim Roughgarden
-- **Operating Systems: Three Easy Pieces** - Remzi
+- **Algorithms Illuminated** - *Tim Roughgarden*
+- **Operating Systems: Three Easy Pieces** - *Remzi*
 
 ### Tools & Infrastructure
 - **The Blockchain Developer** - *Demystifies blockchain beyond the hype. The cryptography chapters alone are worth it.*
