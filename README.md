@@ -76,7 +76,7 @@ Books that shaped my engineering philosophy
 - **Operating Systems: Three Easy Pieces** - Remzi
 
 ### Tools & Infrastructure
-- 
+- **The Blockchain Developer** - *Demystifies blockchain beyond the hype. The cryptography chapters alone are worth it.*
 
 ### Security
 - **The Web Application Hacker's Handbook** - Stuttard & Pinto
