@@ -91,7 +91,7 @@ Books that shaped my engineering philosophy
 
 ## 📫 Contact
 
-Reach me on [Telegram](https://t.me/volkeatworld), on [LinkedIn](https://www.linkedin.com/in/volkya/) or at hello (at) matiasdylanc@gmail.com
+Reach me on [Telegram](https://t.me/volkeatworld), on ([LinkedIn](https://www.linkedin.com/in/dymacorrea/)) or at hello (at) matiasdylanc@gmail.com
 
 <!--
 ## Links
