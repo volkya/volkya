@@ -1,49 +1,144 @@
 
-*[En espaniol](README-ES.md)*\
-*[Auf Deutsch](README-DE.md)*\
-*[На русском](README-RU.md)*
+<!--*[En espaniol](README-ES.md)*\-->
+<!--*[Auf Deutsch](README-DE.md)*\-->
+<!--*[На русском](README-RU.md)*-->
 
-# Aha, I'm Dyma Correa 👋
+### Software Architect / Full-Stack Engineer 🚀 Specialist in Microservices, APIs, and Automations
 
-[![](./src/header_.png)](#)
+<!--[![](./src/header_.png)](#)-->
 > <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life.</b>
 
-## 🔧 Technical Skills
 
-#### Main languages
+<div align=center>
+━━━━━━━━ ☆ ★ ☆ ━━━━━━━━ <br> <br>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js&logoColor=green)&nbsp;
+<br>
 
-#### Application Development
-Desktop: Windows Forms, WPF, Electron
-Web: ASP.NET Core, Blazor, Spring Boot
-Mobile: Xamarin, .NET MAUI, Native Android, Native iOS (Swift)
-Cross-Platform: .NET Core, Java
+<img src="https://img.shields.io/badge/C1-A94438?&label=English&labelColor=1A1918&style=for-the-badge&color=A94438">
+<img src="https://img.shields.io/badge/Native-A94438?&label=Spanish&labelColor=1A1918&style=for-the-badge&color=A94438">
+<img src="https://img.shields.io/badge/B1-A94438?&label=Russian&labelColor=1A1918&style=for-the-badge&color=A94438">
+<br> <br>
 
-#### Infrastructure & Cloud
-DevOps: Docker, CI/CD pipelines
-Cloud Platforms: AWS, Azure
-Infrastructure as Code: YAML, Terraform
-Networking: TCP/IP, HTTP/HTTPS, WebSockets
-Source Control: Git (GitHub, GitLab), Team Foundation Server, Visual Source Safe
+<a href="https://www.github.com/volkya">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=volkya&show_icons=true&hide_border=false&bg_color=1A1918&title_color=E0DCD3&text_color=9C9993&icon_color=A94438&border_color=2B2927&custom_title=Stats">
+</a>
+<a href="https://www.github.com/volkya">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=volkya&hide_border=false&layout=compact&custom_title=Languages&langs_count=8&bg_color=1A1918&title_color=E0DCD3&text_color=9C9993&border_color=2B2927">
+</a> 
 
-#### Database & Storage
-Relational: MSSQL, MySQL
-NoSQL: MongoDB, DynamoDB, Firebase
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=volkya&bg_color=1A1918&color=E0DCD3&line=A94438&point=A94438&area=true&hide_border=false&border_color=2B2927&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+  
 
-#### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)&nbsp;
-![Go](https://img.shields.io/badge/-Go-555?style=flat&logo=go&logoColor=blue)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-555?style=flat&logo=flask)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-555?style=flat&logo=angular)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)&nbsp;
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h2>🔧 Technical Skills</h2>
+    </summary>
+    ━━━━━━━━ ☆ ★ ☆ ━━━━━━━━
+  </ul>
+</div>
+
+<a href="https://github.com/volkya">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=java,go,python,javascript,typescript,spring,nodedotjs,postgresql,mongodb,docker,angular,react,jquery,flask,aws">
+</a>
+<br><br>
+</div>
+
+<div align="left" style="max-width: 700px; margin: 0 auto;">
+  <h4 style="color: #A94438; margin-bottom: 5px;">Application Development</h4>
+  <ul style="color: #E0DCD3; margin-top: 0;">
+    <li><b>Desktop:</b> Windows Forms, WPF, Electron</li>
+    <li><b>Web:</b> ASP.NET Core, Blazor, Spring Boot</li>
+    <li><b>Mobile:</b> Xamarin, .NET MAUI, Native Android, Native iOS (Swift)</li>
+    <li><b>Cross-Platform:</b> .NET Core, Java</li>
+  </ul>
+
+  <h4 style="color: #A94438; margin-bottom: 5px;">Infrastructure & Cloud</h4>
+  <ul style="color: #E0DCD3; margin-top: 0;">
+    <li><b>DevOps:</b> Docker, CI/CD pipelines</li>
+    <li><b>Cloud Platforms:</b> AWS, Azure</li>
+    <li><b>Infrastructure as Code:</b> YAML, Terraform</li>
+    <li><b>Networking:</b> TCP/IP, HTTP/HTTPS, WebSockets</li>
+    <li><b>Source Control:</b> Git (GitHub, GitLab), Team Foundation Server, Visual Source Safe</li>
+  </ul>
+
+  <h4 style="color: #A94438; margin-bottom: 5px;">Database & Storage</h4>
+  <ul style="color: #E0DCD3; margin-top: 0;">
+    <li><b>Relational:</b> MSSQL, MySQL, PostgreSQL</li>
+    <li><b>NoSQL:</b> MongoDB, DynamoDB, Firebase</li>
+  </ul>
+</div>
+<br>
+
+<div align=center>
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h2>📚 Recommended Readings</h2>
+    </summary>
+    ━━━━━━━━ ☆ ★ ☆ ━━━━━━━━
+  </ul>
+</div>
+</div>
+
+<div align="left" style="max-width: 700px; margin: 0 auto;">
+  <h4 style="color: #A94438; margin-bottom: 5px;">Core Engineering & Architecture</h4>
+  <ul style="color: #E0DCD3; margin-top: 0;">
+    <li><b>The Pragmatic Programmer</b> - Hunt & Thomas <br> <i>"Every piece of knowledge must have a single, unambiguous representation"</i></li>
+    <li><b>Clean Code</b> - Robert C. Martin <br> <i>"Code is read far more often than it is written"</i></li>
+    <li><b>Designing Data-Intensive Applications</b> - Martin Kleppmann <br> <i>"Understanding trade-offs between consistency, availability, and partition tolerance"</i></li>
+  </ul>
+  
+  <h4 style="color: #A94438; margin-bottom: 5px;">Architecture and Design</h4>
+  <ul style="color: #E0DCD3; margin-top: 0;">
+    <li><b>Building Microservices</b> - Sam Newman</li>
+    <li><b>Domain-Driven Design</b> - Eric Evans</li>
+    <li><b>Monolith to Microservices</b> - Sam Newman</li>
+    <li><b>Patterns of Enterprise Application Architecture</b> - Martin Fowler</li>
+    <li><b>The Mythical Man Month</b> - Written in 1975, still painfully relevant.</li>
+  </ul>
+
+  <h4 style="color: #A94438; margin-bottom: 5px;">Computer Science & Mathematics</h4>
+  <ul style="color: #E0DCD3; margin-top: 0;">
+    <li><b>Algorithms Illuminated</b> - Tim Roughgarden</li>
+    <li><b>Operating Systems: Three Easy Pieces</b> - Remzi</li>
+  </ul>
+
+  <h4 style="color: #A94438; margin-bottom: 5px;">Tools & Infrastructure</h4>
+  <ul style="color: #E0DCD3; margin-top: 0;">
+    <li><b>The Blockchain Developer</b> - Demystifies blockchain beyond the hype. The cryptography chapters alone are worth it.</li>
+  </ul>
+
+  <h4 style="color: #A94438; margin-bottom: 5px;">Security</h4>
+  <ul style="color: #E0DCD3; margin-top: 0;">
+    <li><b>The Web Application Hacker's Handbook</b> - Stuttard & Pinto</li>
+  </ul>
+
+  <h4 style="color: #A94438; margin-bottom: 5px;">Industry Insights & Essential Papers</h4>
+  <ul style="color: #E0DCD3; margin-top: 0;">
+    <li><b>How to F*ck Up a Startup</b> - Very funny and insightful startups for those who learn from mistakes (i.e., everyone).</li>
+  </ul>
+</div>
+<br>
+
+<div align=center>
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h2>Let's Connect!</h2> <br> 
+      <a href="https://www.linkedin.com/in/dymacorrea/"><img src="https://img.shields.io/badge/LinkedIn-A94438?logo=linkedin&logoColor=fff&labelColor=1A1918&style=for-the-badge"></a>
+      <a href="mailto:correa.dyma@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Gmail-A94438?logo=gmail&logoColor=white&labelColor=1A1918&style=for-the-badge"></a>
+      <a href="https://substack.com/@volkya"><img src="https://img.shields.io/badge/Substack-A94438?logo=substack&logoColor=fff&labelColor=1A1918&style=for-the-badge"/></a>
+      <a href="https://t.me/volkeatworld"><img src="https://img.shields.io/badge/Telegram-A94438?logo=telegram&logoColor=fff&labelColor=1A1918&style=for-the-badge"/></a>
+    </summary>
+  </ul>
+</div>
+
+<div align=right>
+  <img height=25px src="https://komarev.com/ghpvc/?username=volkya&color=A94438&style=for-the-badge&label=Views">
+  <img height=25px src="https://img.shields.io/github/followers/volkya?label=Followers&style=for-the-badge&color=A94438&labelColor=1A1918" alt="Followers"/>
+</div>
+</div>
 
 
 <!--## Writing-->
@@ -55,43 +150,10 @@ NoSQL: MongoDB, DynamoDB, Firebase
 <!--## 🎥 Content Creation & Media -->
 
 
-## 📚 Recommended Readings
-Books that shaped my engineering philosophy
+<!--## 📚 Recommended Readings-->
 
-### Core Engineering & Architecture
-- **The Pragmatic Programmer** - Hunt & Thomas
-  > "Every piece of knowledge must have a single, unambiguous representation"
-- **Clean Code** - Robert C. Martin
-  > "Code is read far more often than it is written"
-- **Designing Data-Intensive Applications** - Martin Kleppmann
-  > "Understanding trade-offs between consistency, availability, and partition tolerance" 
+<!--## 📫 Contact-->
 
-### Architecture and Design
-- Building Microservices - *Sam Newman*
-- Domain-Driven Design - *Eric Evans*
-- Monolith to Microservices - *Sam Newman*
-- Patterns of Enterprise Application Architecture - *Martin Fowler*
-- The Mythical Man Month - *Written in 1975, still painfully relevant.*
-
-
-### Computer Science & Mathematics
-- **Algorithms Illuminated** - *Tim Roughgarden*
-- **Operating Systems: Three Easy Pieces** - *Remzi*
-
-### Tools & Infrastructure
-- **The Blockchain Developer** - *Demystifies blockchain beyond the hype. The cryptography chapters alone are worth it.*
-
-### Security
-- **The Web Application Hacker's Handbook** - Stuttard & Pinto
-
-
-### Industry Insights & Essential Papers
-**How to F*ck Up a Startup** - Very funny and insightful startups for those who learn from mistakes (i.e., everyone).
-
-
-## 📫 Contact
-
-Reach me on [Telegram](https://t.me/volkeatworld), on ([LinkedIn](https://www.linkedin.com/in/dymacorrea/)) or at hello (at) matiasdylanc@gmail.com
 
 <!--
 ## Links
