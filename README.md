@@ -46,6 +46,29 @@
 <br><br>
 </div>
 
+<br>
+
+<div align=center>
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h2>Let's Connect!</h2> <br> 
+      <a href="https://www.linkedin.com/in/dymacorrea/"><img src="https://img.shields.io/badge/LinkedIn-A94438?logo=linkedin&logoColor=fff&labelColor=1A1918&style=for-the-badge"></a>
+      <a href="mailto:correa.dyma@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Gmail-A94438?logo=gmail&logoColor=white&labelColor=1A1918&style=for-the-badge"></a>
+      <a href="https://substack.com/@volkya"><img src="https://img.shields.io/badge/Substack-A94438?logo=substack&logoColor=fff&labelColor=1A1918&style=for-the-badge"/></a>
+      <a href="https://t.me/volkeatworld"><img src="https://img.shields.io/badge/Telegram-A94438?logo=telegram&logoColor=fff&labelColor=1A1918&style=for-the-badge"/></a>
+    </summary>
+  </ul>
+</div>
+
+<div align=right>
+  <img height=25px src="https://komarev.com/ghpvc/?username=volkya&color=A94438&style=for-the-badge&label=Views">
+  <img height=25px src="https://img.shields.io/github/followers/volkya?label=Followers&style=for-the-badge&color=A94438&labelColor=1A1918" alt="Followers"/>
+</div>
+</div>
+
+
+<br>
 <div align="left" style="max-width: 700px; margin: 0 auto;">
   <h4 style="color: #A94438; margin-bottom: 5px;">Application Development</h4>
   <ul style="color: #E0DCD3; margin-top: 0;">
@@ -72,13 +95,12 @@
 </div>
 <br>
 
-<div align=center>
+<div align=left>
 <div id="toc">
   <ul style="list-style: none">
     <summary>
       <h2>📚 Recommended Readings</h2>
     </summary>
-    ━━━━━━━━ ☆ ★ ☆ ━━━━━━━━
   </ul>
 </div>
 </div>
@@ -121,28 +143,6 @@
     <li><b>How to F*ck Up a Startup</b> - Very funny and insightful startups for those who learn from mistakes (i.e., everyone).</li>
   </ul>
 </div>
-<br>
-
-<div align=center>
-<div id="toc">
-  <ul style="list-style: none">
-    <summary>
-      <h2>Let's Connect!</h2> <br> 
-      <a href="https://www.linkedin.com/in/dymacorrea/"><img src="https://img.shields.io/badge/LinkedIn-A94438?logo=linkedin&logoColor=fff&labelColor=1A1918&style=for-the-badge"></a>
-      <a href="mailto:correa.dyma@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Gmail-A94438?logo=gmail&logoColor=white&labelColor=1A1918&style=for-the-badge"></a>
-      <a href="https://substack.com/@volkya"><img src="https://img.shields.io/badge/Substack-A94438?logo=substack&logoColor=fff&labelColor=1A1918&style=for-the-badge"/></a>
-      <a href="https://t.me/volkeatworld"><img src="https://img.shields.io/badge/Telegram-A94438?logo=telegram&logoColor=fff&labelColor=1A1918&style=for-the-badge"/></a>
-    </summary>
-  </ul>
-</div>
-
-<div align=right>
-  <img height=25px src="https://komarev.com/ghpvc/?username=volkya&color=A94438&style=for-the-badge&label=Views">
-  <img height=25px src="https://img.shields.io/github/followers/volkya?label=Followers&style=for-the-badge&color=A94438&labelColor=1A1918" alt="Followers"/>
-</div>
-</div>
-
-
 <!--## Writing-->
 
 <!--## 💼 Work --> 
