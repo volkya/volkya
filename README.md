@@ -17,6 +17,8 @@
 <img src="https://img.shields.io/badge/C1-A94438?&label=English&labelColor=1A1918&style=for-the-badge&color=A94438">
 <img src="https://img.shields.io/badge/Native-A94438?&label=Spanish&labelColor=1A1918&style=for-the-badge&color=A94438">
 <img src="https://img.shields.io/badge/B1-A94438?&label=Russian&labelColor=1A1918&style=for-the-badge&color=A94438">
+<img src="https://img.shields.io/badge/A2-A94438?&label=German&labelColor=1A1918&style=for-the-badge&color=A94438">
+<!--<img src="https://img.shields.io/badge/A1-A94438?&label=French&labelColor=1A1918&style=for-the-badge&color=A94438">-->
 <br> <br>
 
 <a href="https://www.github.com/volkya">
